@@ -67,30 +67,23 @@ fattura_compressed_2026-05-14_16-44-12.pdf
 
 ## PDF diretti
 
-- `.pdf`
+- `.pdf` nato principalmente per ridurre il peso del pdf
 
 ## File convertibili automaticamente
 
 ### LibreOffice / OpenOffice
 
-- `.odt`
-- `.ods`
-- `.odp`
+- `.odt - .ods - .odp`
 
 ### Microsoft Office
 
-- `.doc`
-- `.docx`
-- `.xls`
-- `.xlsx`
-- `.ppt`
-- `.pptx`
+- `.doc - .docx`
+- `.xls - .xlsx`
+- `.ppt - .pptx`
 
 ### Altri formati
 
-- `.rtf`
-- `.csv`
-- `.txt`
+- `.rtf - .csv - .txt`
 
 ---
 
@@ -106,7 +99,7 @@ fattura_compressed_2026-05-14_16-44-12.pdf
 
 ## Pacchetti richiesti
 
-### openSUSE
+### openSUSE 🦎
 
 ```bash
 sudo zypper install ghostscript libreoffice python3 python3-qt6
