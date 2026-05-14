@@ -142,13 +142,13 @@ cd droppdfcompress
 Rendi eseguibile il programma:
 
 ```bash
-chmod +x DropPDFCompress_FINAL_OLDPY2.py
+chmod +x DropPDFCompress.py
 ```
 
 Avvio:
 
 ```bash
-python3 DropPDFCompress_FINAL_OLDPY2.py
+python3 DropPDFCompress.py
 ```
 
 ---
@@ -202,7 +202,7 @@ chmod +x rimuovi-lanciatore-droppdfcompress.sh
 | Livello | DPI | Uso consigliato |
 |---|---|---|
 | Buono | 150 dpi | archiviazione documenti |
-| Medio | 120 dpi | uso generale |
+| Medio | 120 dpi | uso generale | di default
 | Forte | 96 dpi | invio email |
 | Estremo | 72 dpi | documenti molto pesanti |
 
