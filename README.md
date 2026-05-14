@@ -229,5 +229,5 @@ Gianluca Bolognesi
 
 # 📜 Licenza
 
-MIT
+GPL 3
 
