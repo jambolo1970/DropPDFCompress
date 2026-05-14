@@ -1,0 +1,13 @@
+\
+    [Desktop Entry]
+    Version=1.0
+    Type=Application
+    Name=DropPDFCompress
+    Comment=Converti e comprimi PDF con drag and drop
+    Exec=droppdfcompress
+    Icon=droppdfcompress
+    Terminal=false
+    StartupNotify=true
+    Categories=Utility;Office;Graphics;
+    Keywords=pdf;compress;compressione;converti;conversione;dragdrop;ghostscript;libreoffice;
+    StartupWMClass=DropPDFCompress
