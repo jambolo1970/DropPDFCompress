@@ -202,7 +202,7 @@ chmod +x rimuovi-lanciatore-droppdfcompress.sh
 | Livello | DPI | Uso consigliato |
 |---|---|---|
 | Buono | 150 dpi | archiviazione documenti |
-| Medio | 120 dpi | uso generale | di default
+| Medio | 120 dpi | uso generale ✅default|
 | Forte | 96 dpi | invio email |
 | Estremo | 72 dpi | documenti molto pesanti |
 
